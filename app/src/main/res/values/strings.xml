@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能记账宝</string>
+    <string name="accessibility_service_description">智能记账宝需要无障碍服务权限来自动识别支付宝和微信的支付成功页面，以便自动帮您记录账目。</string>
+</resources>
